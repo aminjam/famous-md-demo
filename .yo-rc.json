@@ -1,0 +1,11 @@
+{
+  "generator-angular-famous-ionic": {
+    "appname": "mobile",
+    "clientFolder": "client",
+    "ionic": true,
+    "famous": true,
+    "ngCordova": true,
+    "fontawesome": false,
+    "bootstrap": false
+  }
+}
